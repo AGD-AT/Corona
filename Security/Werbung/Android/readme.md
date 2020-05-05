@@ -45,7 +45,10 @@ https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpaga
 Ihre Daten werden beim Beenden von Firefox immer gelöscht. Mit einer VPN und dieser Einstellungen bekommen sie keine Werbung mehr z. B. von einer Waschmaschine, wenn Sie danach mal gesucht haben. Die Werbung wird duch uBlock Origin entfernt und Tracker haben dank Decentraleyes keine Chance und Ihr Daten werden beim Beenden gelöscht.
 
 
-# VPN (Virtuelles Privates Netzwerk
+# VPN (Virtuelles Privates Netzwerk)
+Es sollte nie ohne einer VPN ins Internet gegangen werden, ein VPN ist ein weiterer Schutz für Ihre Sicherheit.
+Ein VPN schützt Sie davor, dass im Netzwerk Ihre Daten wie Passwörter abgefangen werden können. Zudem können Sie auf alle Interneteiten zufreifen, auch wenn diese vom Internetanbieter gesperrt werden.
+
 ## Wir empfehlen nur zwei VPNs
 
 ### - NordVPN
@@ -56,4 +59,3 @@ https://nordvpn.com/de/
 -) unbegrenzte Anzahl an Geräte
 https://surfshark.com/de/
 
-Es sollte nie ohne einer VPN ins Internet gegangen werden, ein VPN ist ein weiterer Schutz für Ihre Sicherheit.
